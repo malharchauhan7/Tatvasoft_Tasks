@@ -1,0 +1,6 @@
+@AuthDAY5_HostAddress = http://localhost:5201
+
+GET {{AuthDAY5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

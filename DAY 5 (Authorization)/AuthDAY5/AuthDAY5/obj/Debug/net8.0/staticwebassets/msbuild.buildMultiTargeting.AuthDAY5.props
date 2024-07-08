@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AuthDAY5.props" />
+</Project>

@@ -1,0 +1,153 @@
+
+
+
+select * from City;
+select * from Country;
+select * from MissionApplication;
+select * from MissionRating;
+select * from MissionSkill;
+select * from MissionTheme;
+select * from Missions;
+select * from User;
+select * from UserDetail;
+select * from __EFMigrationsHistory;
+
+select * from city;
+select * from country;
+select * from missionapplication;
+
+select * from missionskill;
+select * from missiontheme;
+select * from missions;
+select * from user;
+select * from userdetail;
+
+
+
+
+
+
+
+
+
+
+
+
+
+CREATE TABLE Country (
+    Id SERIAL PRIMARY KEY,
+    CountryName VARCHAR(255) NOT NULL
+);
+
+
+
+
+
+
+CREATE TABLE City (
+    Id SERIAL PRIMARY KEY,
+    CountryId INT NOT NULL,
+    CityName VARCHAR(255) NOT NULL,
+    FOREIGN KEY (CountryId) REFERENCES Country(Id)
+);
+
+
+
+
+
+
+CREATE TABLE MissionApplication (
+    Id SERIAL PRIMARY KEY,
+    MissionId INT NOT NULL,
+    UserId INT NOT NULL,
+    AppliedDate TIMESTAMP NOT NULL,
+    Status BOOLEAN NOT NULL,
+    Sheet VARCHAR(255)
+);
+
+
+
+
+CREATE TABLE Missions (
+    Id SERIAL PRIMARY KEY,
+    MissionTitle VARCHAR(255) NOT NULL,
+    MissionDescription TEXT,
+    MissionOrganisationName VARCHAR(255),
+    MissionOrganisationDetail TEXT,
+    CountryId INT NOT NULL,
+    CityId INT NOT NULL,
+    StartDate DATE,
+    EndDate DATE,
+    MissionType VARCHAR(255),
+    TotalSheets INT,
+    RegistrationDeadLine DATE,
+    MissionThemeId VARCHAR(255),
+    MissionSkillId VARCHAR(255),
+    MissionImages TEXT,
+    MissionDocuments TEXT,
+    MissionAvailability VARCHAR(255),
+    MissionVideoUrl VARCHAR(255)
+);
+
+
+
+
+
+CREATE TABLE MissionSkill (
+  id INT PRIMARY KEY,
+  skillName VARCHAR NOT NULL,
+  status VARCHAR NOT NULL
+);
+
+
+CREATE TABLE MissionTheme (
+  id INT PRIMARY KEY,
+  themeName VARCHAR NOT NULL,
+  status VARCHAR NOT NULL
+);
+
+
+
+CREATE TABLE users (
+  username VARCHAR(50) PRIMARY KEY,
+  firstname VARCHAR(50) NOT NULL,
+  lastname VARCHAR(50) NOT NULL,
+  phonenumber VARCHAR(20),
+  emailaddress VARCHAR(50),
+  usertype VARCHAR(50),
+  password VARCHAR(50) NOT NULL
+);
+
+
+
+CREATE TABLE UserDetail (
+  id INT PRIMARY KEY,
+  UserId INT NOT NULL,
+  Name VARCHAR(50) NOT NULL,
+  Surname VARCHAR(50) NOT NULL,
+  EmployeeId VARCHAR(50),
+  Manager VARCHAR(50),
+  Title VARCHAR(50),
+  Department VARCHAR(50),
+  MyProfile VARCHAR(50),
+  WhyIVolunteer VARCHAR(50),
+  CountryId INT,
+  CityId INT,
+  Avilability VARCHAR(50),
+  LinkdInUrl VARCHAR(50),
+  MySkills VARCHAR(50),
+  UserImage VARCHAR(50),
+  Status BOOLEAN
+);
+
+
+
+
+
+
+CREATE TABLE UserSkills (
+  id INT PRIMARY KEY,
+  Skill VARCHAR(50) NOT NULL,
+  UserId INT NOT NULL,
+  FOREIGN KEY (UserId) REFERENCES UserDetail(id)
+);
