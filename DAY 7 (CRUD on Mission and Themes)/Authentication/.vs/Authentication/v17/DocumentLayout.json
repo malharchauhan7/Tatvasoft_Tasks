@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\asus\\desktop\\tatvasoft\\day 7 (crud on mission and themes\\authentication\\authentication\\controllers\\themecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\themecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\asus\\desktop\\tatvasoft\\day 7 (crud on mission and themes\\authentication\\authentication\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\asus\\desktop\\tatvasoft\\day 7 (crud on mission and themes\\authentication\\authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\asus\\desktop\\tatvasoft\\day 7 (crud on mission and themes\\authentication\\authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\asus\\desktop\\tatvasoft\\day 7 (crud on mission and themes\\authentication\\authentication\\repository\\imission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\repository\\imission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\asus\\desktop\\tatvasoft\\day 7 (crud on mission and themes\\authentication\\authentication\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\asus\\desktop\\tatvasoft\\day 7 (crud on mission and themes\\authentication\\authentication\\repository\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\repository\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\asus\\desktop\\tatvasoft\\day 7 (crud on mission and themes\\authentication\\authentication\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\asus\\desktop\\tatvasoft\\day 7 (crud on mission and themes\\authentication\\authentication\\repository\\themerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\repository\\themerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\asus\\desktop\\tatvasoft\\day 7 (crud on mission and themes\\authentication\\authentication\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\asus\\desktop\\tatvasoft\\day 7 (crud on mission and themes\\authentication\\authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\asus\\desktop\\tatvasoft\\day 7 (crud on mission and themes\\authentication\\authentication\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\asus\\desktop\\tatvasoft\\day 7 (crud on mission and themes\\authentication\\authentication\\migrations\\20240707122121_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\migrations\\20240707122121_intial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|c:\\users\\asus\\desktop\\tatvasoft\\day 7 (crud on mission and themes\\authentication\\authentication\\migrations\\20240707184830_chnagefortheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA0E8353-C9B6-45E1-B753-9C16C1D3DAEE}|Authentication\\Authentication.csproj|solutionrelative:authentication\\migrations\\20240707184830_chnagefortheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ThemeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Repository\\ThemeRepository.cs",
+              "RelativeDocumentMoniker": "Authentication\\Repository\\ThemeRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Repository\\ThemeRepository.cs",
+              "RelativeToolTip": "Authentication\\Repository\\ThemeRepository.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAswDMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T07:27:40.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThemeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Controllers\\ThemeController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\ThemeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Controllers\\ThemeController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\ThemeController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwEQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:50:46.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MissionController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Controllers\\MissionController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\MissionController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Controllers\\MissionController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\MissionController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAowD4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:46:44.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Authentication\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Entities\\User.cs",
+              "RelativeToolTip": "Authentication\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:46:44.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMission.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Repository\\IMission.cs",
+              "RelativeDocumentMoniker": "Authentication\\Repository\\IMission.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Repository\\IMission.cs",
+              "RelativeToolTip": "Authentication\\Repository\\IMission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:46:44.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Mission.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Repository\\Mission.cs",
+              "RelativeDocumentMoniker": "Authentication\\Repository\\Mission.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Repository\\Mission.cs",
+              "RelativeToolTip": "Authentication\\Repository\\Mission.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAowK4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:46:44.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:46:44.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\AuthContext.cs",
+              "RelativeDocumentMoniker": "Authentication\\AuthContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\AuthContext.cs",
+              "RelativeToolTip": "Authentication\\AuthContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:46:44.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Program.cs",
+              "RelativeDocumentMoniker": "Authentication\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Program.cs",
+              "RelativeToolTip": "Authentication\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:46:44.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\appsettings.json",
+              "RelativeDocumentMoniker": "Authentication\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\appsettings.json",
+              "RelativeToolTip": "Authentication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T05:46:44.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Authentication\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Model\\User.cs",
+              "RelativeToolTip": "Authentication\\Model\\User.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA7wB0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:46:44.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240707122121_Intial.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Migrations\\20240707122121_Intial.cs",
+              "RelativeDocumentMoniker": "Authentication\\Migrations\\20240707122121_Intial.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Migrations\\20240707122121_Intial.cs",
+              "RelativeToolTip": "Authentication\\Migrations\\20240707122121_Intial.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:46:44.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240707184830_Chnagefortheme.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Migrations\\20240707184830_Chnagefortheme.cs",
+              "RelativeDocumentMoniker": "Authentication\\Migrations\\20240707184830_Chnagefortheme.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Migrations\\20240707184830_Chnagefortheme.cs",
+              "RelativeToolTip": "Authentication\\Migrations\\20240707184830_Chnagefortheme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:46:44.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Authentication\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Authentication\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T05:46:44.799Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
