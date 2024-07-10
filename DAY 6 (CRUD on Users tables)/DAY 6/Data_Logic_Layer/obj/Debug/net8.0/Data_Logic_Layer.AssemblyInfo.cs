@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Data_Logic_Layer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c939dee47502c8e9af1ce91e542a0c02db5e588")]
 [assembly: System.Reflection.AssemblyProductAttribute("Data_Logic_Layer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Data_Logic_Layer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

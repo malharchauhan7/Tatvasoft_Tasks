@@ -89,20 +89,25 @@ namespace Authentication.Migrations
                     b.ToTable("Missions");
                 });
 
-            modelBuilder.Entity("Authentication.Entities.Theme", b =>
+            modelBuilder.Entity("Authentication.Entities.MissionSkillDto", b =>
                 {
-                    b.Property<int>("ThemeId")
+                    b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("integer");
 
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("ThemeId"));
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("ThemeName")
+                    b.Property<string>("SkillName")
+                        .IsRequired()
                         .HasColumnType("text");
 
-                    b.HasKey("ThemeId");
+                    b.Property<string>("Status")
+                        .IsRequired()
+                        .HasColumnType("text");
 
-                    b.ToTable("Themes");
+                    b.HasKey("Id");
+
+                    b.ToTable("MissionSkills");
                 });
 
             modelBuilder.Entity("Authentication.Entities.User", b =>
@@ -128,6 +133,23 @@ namespace Authentication.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Users");
+                });
+
+            modelBuilder.Entity("Authentication.Model.ThemeViewModel", b =>
+                {
+                    b.Property<int>("ThemeId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer");
+
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("ThemeId"));
+
+                    b.Property<string>("ThemeName")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.HasKey("ThemeId");
+
+                    b.ToTable("Themes");
                 });
 #pragma warning restore 612, 618
         }

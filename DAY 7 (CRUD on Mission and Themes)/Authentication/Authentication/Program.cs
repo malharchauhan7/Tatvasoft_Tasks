@@ -82,6 +82,7 @@ namespace Authentication
             });
             builder.Services.AddScoped<IMission, Mission>();
             builder.Services.AddScoped<ITheme, ThemeRepository>();
+            builder.Services.AddScoped<IMissionSkillRepository, MissionSkillRepository>();
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 

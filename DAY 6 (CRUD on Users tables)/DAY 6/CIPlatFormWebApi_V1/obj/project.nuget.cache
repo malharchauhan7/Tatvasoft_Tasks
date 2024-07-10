@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H5gBnO8DOg8=",
+  "dgSpecHash": "uwUqBQIcIew=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Desktop\\Day-6\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 6 (CRUD on Users tables)\\DAY 6\\CIPlatFormWebApi_V1\\CIPlatFormWebApi_V1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.6\\microsoft.aspnetcore.authentication.jwtbearer.8.0.6.nupkg.sha512",

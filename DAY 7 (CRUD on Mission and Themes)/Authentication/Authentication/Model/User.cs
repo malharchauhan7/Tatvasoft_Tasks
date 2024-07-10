@@ -39,5 +39,13 @@ namespace Authentication.Model
         public string ThemeName { get; set; }
     }
 
+
+    public class MissionSkillModel {
+        public int Id { get; set; }
+        public string SkillName { get; set; }
+        public string Status { get; set; }
+
+    }
+
 }
 

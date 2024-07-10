@@ -1927,11 +1927,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Authentication.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes)\\Authentication\\Authentication\\Authentication.csproj",
       "projectName": "Authentication",
-      "projectPath": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\Authentication.csproj",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes)\\Authentication\\Authentication\\Authentication.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes\\Authentication\\Authentication\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes)\\Authentication\\Authentication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

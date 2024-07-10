@@ -47,7 +47,7 @@ namespace Authentication.Controllers
             return Ok(missionWithDetails);
         }
 
-        [HttpDelete("{id}")]
+        [HttpDelete("DeleteMission/{id}")]
         public async Task<IActionResult> DeleteMission(int id)
         {
             var result = await _missionRepository.DeleteMission(id);

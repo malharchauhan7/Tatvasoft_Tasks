@@ -46,6 +46,18 @@ namespace Authentication.Entities
 
         public string? ThemeName { get; set; }
 
-      
+
     }
+
+
+    public class MissionSkillDto {
+       
+        [Key]
+        public int Id { get; set; }
+        public string SkillName { get; set; }
+        public string Status { get; set; }
+
+
+    }
+
 }

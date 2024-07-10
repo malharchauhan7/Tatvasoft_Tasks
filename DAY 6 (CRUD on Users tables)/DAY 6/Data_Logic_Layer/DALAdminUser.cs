@@ -46,9 +46,10 @@ namespace Data_Logic_Layer
                         maxEmployeeId = Convert.ToInt32(lastUserDetail.EmployeeId);
                     }
                     int newEmployeeId = maxEmployeeId + 1;
+                    var existingUser = _context.User.FirstOrDefault(x => x.EmailAddress == user.EmailAddress);
                     var newUserDetail = new UserDetail
                     {
-                        UserId = newUser.Id,
+                        UserId = existingUser.Id,
                         FirstName = user.FirstName,
                         LastName = user.LastName,
                         PhoneNumber = user.PhoneNumber,
@@ -131,47 +132,66 @@ namespace Data_Logic_Layer
                 }
                 return result;
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 throw;
             }
 
         }
 
-        public async Task<string> UpdateUser(User user)
+        public string UpdateUser(User user)
         {
+            var result = "";
             try
             {
-                var existingUser = await _context.User.FirstOrDefaultAsync(x => x.Id == user.Id && !x.IsDeleted);
-                if (existingUser == null)
+                // Check if the user exists and is not deleted
+                var existingUser = _context.User.FirstOrDefault(x => !x.IsDeleted && x.Id == user.Id);
+                if (existingUser != null)
                 {
-                    return "User not found.";
+                    // Update the User entity
+                    existingUser.FirstName = user.FirstName;
+                    existingUser.LastName = user.LastName;
+                    existingUser.PhoneNumber = user.PhoneNumber;
+                    existingUser.EmailAddress = user.EmailAddress;
+                    existingUser.UserType = user.UserType;
+                    existingUser.ModifiedDate = DateTime.UtcNow; // Assuming you have an UpdatedDate field
+
+                    // Save changes to the User entity
+                    _context.SaveChanges();
+
+                    // Update the UserDetail entity
+                    var existingUserDetail = _context.UserDetail.FirstOrDefault(x => x.UserId == user.Id);
+                    if (existingUserDetail != null)
+                    {
+                        existingUserDetail.FirstName = user.FirstName;
+                        existingUserDetail.LastName = user.LastName;
+                        existingUserDetail.PhoneNumber = user.PhoneNumber;
+                        existingUserDetail.EmailAddress = user.EmailAddress;
+                        existingUserDetail.UserType = user.UserType;
+                        existingUserDetail.Name = user.FirstName; // Assuming Name is the same as FirstName
+                        existingUserDetail.Surname = user.LastName; // Assuming Surname is the same as LastName
+                        existingUserDetail.ModifiedDate = DateTime.UtcNow; // Assuming you have an UpdatedDate field
+
+                        // Save changes to the UserDetail entity
+                        _context.SaveChanges();
+
+                        result = "User updated successfully.";
+                    }
+                    else
+                    {
+                        result = "User detail not found.";
+                    }
                 }
-
-                existingUser.FirstName = user.FirstName;
-                existingUser.LastName = user.LastName;
-                existingUser.PhoneNumber = user.PhoneNumber;
-                existingUser.EmailAddress = user.EmailAddress;
-                existingUser.Password = user.Password;
-                existingUser.UserType = user.UserType;
-
-                var existingUserDetail = await _context.UserDetail.FirstOrDefaultAsync(x => x.UserId == user.Id && !x.IsDeleted);
-                if (existingUserDetail != null)
+                else
                 {
-                    existingUserDetail.FirstName = user.FirstName;
-                    existingUserDetail.LastName = user.LastName;
-                    existingUserDetail.PhoneNumber = user.PhoneNumber;
-                    existingUserDetail.EmailAddress = user.EmailAddress;
-                    existingUserDetail.UserType = user.UserType;
+                    result = "User not found.";
                 }
-
-                await _context.SaveChangesAsync();
-                return "User updated successfully.";
             }
             catch (Exception ex)
             {
-                return ex.Message;
+                result = ex.Message;
             }
+            return result;
         }
     }
 }

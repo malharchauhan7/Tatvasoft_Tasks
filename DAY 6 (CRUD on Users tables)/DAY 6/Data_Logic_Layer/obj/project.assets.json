@@ -2307,11 +2307,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Day-6\\Data_Logic_Layer\\Data_Logic_Layer.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 6 (CRUD on Users tables)\\DAY 6\\Data_Logic_Layer\\Data_Logic_Layer.csproj",
       "projectName": "Data_Logic_Layer",
-      "projectPath": "C:\\Users\\Asus\\Desktop\\Day-6\\Data_Logic_Layer\\Data_Logic_Layer.csproj",
+      "projectPath": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 6 (CRUD on Users tables)\\DAY 6\\Data_Logic_Layer\\Data_Logic_Layer.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Desktop\\Day-6\\Data_Logic_Layer\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 6 (CRUD on Users tables)\\DAY 6\\Data_Logic_Layer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
