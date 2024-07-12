@@ -1,0 +1,11 @@
+{
+    "/upload": {
+      "target": "https://api.imgbb.com",
+      "secure": true,
+      "logLevel": "debug",
+      "changeOrigin": true,
+      "pathRewrite": {
+        "^/upload": "/1/upload"
+      }
+    }
+  }

@@ -1,0 +1,69 @@
+<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/css/bootstrap-extended.min.css">
+<link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/fonts/simple-line-icons/style.min.css">
+<link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/css/colors.min.css">
+<link rel="stylesheet" type="text/css" href="https://pixinvent.com/stack-responsive-bootstrap-4-admin-template/app-assets/css/bootstrap.min.css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+
+<div class="container-fluid">
+  <app-sidebar></app-sidebar>
+  <div class="content">
+    <app-header></app-header>
+    <div class="info">
+      <h3>Dashboard</h3>
+
+      
+      <div class="statistics-container" *ngIf="statistics">
+        <div class="statistic-card">
+          <div class="text-content">
+            <div class="value">{{ statistics.userCount }}</div>
+            <div class="label">Users</div>
+          </div>
+          <i class="icon icon-user success font-large-3"></i>
+        </div>
+        <div class="statistic-card">
+          <div class="text-content">
+            <div class="value">{{ statistics.missionCount }}</div>
+            <div class="label">Missions</div>
+          </div>
+          <i class="icon-rocket danger font-large-3"></i>
+        </div>
+        <div class="statistic-card">
+          <div class="text-content">
+            <div class="value">{{ statistics.skillCount }}</div>
+            <div class="label">Skills</div>
+          </div>
+          <i class="icon icon-pencil primary font-large-3"></i>
+        </div>
+        <div class="statistic-card">
+          <div class="text-content">
+            <div class="value">{{ statistics.themeCount }}</div>
+            <div class="label">Themes</div>
+          </div>
+          <i class="icon icon-support primary font-large-3"></i>
+        </div>
+        <div class="statistic-card">
+          <div class="text-content">
+            <div class="value">{{ statistics.countryCount }}</div>
+            <div class="label">Countries</div>
+          </div>
+          <i class="icon icon-pointer danger font-large-3"></i>
+        </div>
+        <div class="statistic-card">
+          <div class="text-content">
+            <div class="value">{{ statistics.cityCount }}</div>
+            <div class="label">Cities</div>
+          </div>
+          <i class="icon icon-direction success font-large-3"></i>
+        </div>
+        <div class="statistic-card application-card">
+          <div class="text-content">
+            <div class="value">{{ statistics.applicationCount }}</div>
+            <div class="label">Applications</div>
+          </div>
+          <i class="icon icon-speech warning font-large-3"></i>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

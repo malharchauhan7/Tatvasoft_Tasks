@@ -1,0 +1,143 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm">
+  <div class="container-fluid px-4">
+    <a class="navbar-brand d-flex align-items-center" href="#">
+      <!-- <img
+        src="https://i.ibb.co/Nrv3cT8/logo-2.jpg"
+        class="rounded-circle me-2"
+        width="56"
+        height="56"
+        alt="Logo"
+      /> -->
+      <span
+        class="text fw-bold"
+        style="
+          font-family: 'Tiro Devanagari Sanskrit', sans-serif;
+          font-size: 2rem;
+          margin-right: 4rem;
+          margin-top: 2px;
+        "
+        ><span style="font-family: 'Anta', sans-serif; font-size: 1.8rem;"
+          >VCS</span
+        ></span
+      >
+    </a>
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#navbarNav"
+      aria-controls="navbarNav"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0" style="margin-left: 15rem;">
+        <li class="nav-item">
+          <a
+            class="nav-link px-3 borderadius"
+            style="font-size: 18px;"
+            routerLink="/../home"
+            [ngClass]="{'active': activeLink === 'home'}"
+            (click)="setActiveLink('home')"
+            >Home</a
+          >
+        </li>
+        <li class="nav-item">
+          <a
+            class="nav-link px-3 borderadius"
+            style="font-size: 18px;"
+            routerLink="/../home"
+            [ngClass]="{'active': activeLink === 'support'}"
+            (click)="setActiveLink('support')"
+            >Support</a
+          >
+        </li>
+        <li class="nav-item">
+          <a
+            class="nav-link px-3 borderadius"
+            style="font-size: 18px;"
+            routerLink="/../privacyPolicy"
+            [ngClass]="{'active': activeLink === 'policy'}"
+            (click)="setActiveLink('policy')"
+            >Policy</a
+          >
+        </li>
+        <li class="nav-item">
+          <a
+            class="nav-link px-3 borderadius"
+            style="font-size: 18px;"
+            routerLink="/../privacyPolicy"
+            [ngClass]="{'active': activeLink === 'contact'}"
+            (click)="setActiveLink('contact')"
+            >Contact</a
+          >
+        </li>
+      </ul>
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0 profile-menu">
+        <li class="nav-item" *ngIf="!isLogin">
+          <a
+            class="nav-link"
+            style="
+              cursor: pointer;
+              font-family: 'Jost', sans-serif;
+              font-weight: 500;
+            "
+            (click)="RedirectLogin()"
+            >Login</a
+          >
+        </li>
+        <li class="nav-item" *ngIf="!isLogin">
+          <a
+            class="nav-link"
+            style="
+              cursor: pointer;
+              font-family: 'Jost', sans-serif;
+              font-weight: 500;
+            "
+            (click)="RedirectRegister()"
+            >Register</a
+          >
+        </li>
+        <li class="nav-item dropdown" dropdown *ngIf="isLogin">
+          <a class="nav-link dropdown-toggle" dropdownToggle>
+            <img
+              src="{{userImage}}"
+              onerror="this.src='assets/NoUser.png'"
+              class="rounded-circle me-2"
+              width="48"
+              height="48"
+              alt="User Avatar"
+            />
+            <span style="font-family: 'Jost', sans-serif; font-weight: 600;"
+              >{{userDetail | titlecase}}</span
+            >
+          </a>
+          <ul class="dropdown-menu dropdown-menu-end" *dropdownMenu role="menu">
+            <li role="menuitem">
+              <a
+                class="dropdown-item"
+                routerLinkActive="active"
+                routeLinkActiveOptions="{exact:true}"
+                routerLink="../userProfile/{{loginUserId}}"
+                style="font-family: 'Jost', sans-serif; font-weight: 500;"
+                >My Profile</a
+              >
+            </li>
+            <li><hr class="dropdown-divider" /></li>
+            <li role="menuitem">
+              <a
+                class="dropdown-item"
+                routerLinkActive="active"
+                (click)="LoggedOut()"
+                style="font-family: 'Jost', sans-serif; font-weight: 500;"
+                >Log Out</a
+              >
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

@@ -1,0 +1,78 @@
+/* Navbar */
+@import url("https://fonts.googleapis.com/css2?family=Anta&family=Cinzel&family=Handjet:wght@200&family=Satisfy&family=Tiro+Devanagari+Hindi:ital@0;1&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap");
+/* Navbar */
+.navbar {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+.navbar-brand {
+  font-family: "Jost", sans-serif;
+  font-size: 1.5rem;
+}
+
+.navbar-nav .nav-link {
+  font-family: "Jost", sans-serif;
+  font-weight: 500;
+  color: #555;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  padding: 0.5rem 1rem;
+}
+
+.navbar-nav .nav-link:hover {
+  background-color: rgba(0, 123, 255, 0.1);
+  color: #004280;
+}
+
+.navbar-nav .nav-link.active {
+  background-color: #004280;
+  color: #fff;
+}
+
+.navbar-nav .dropdown-menu {
+  border: none;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.12);
+  font-family: "Jost", sans-serif;
+}
+
+.navbar-nav .dropdown-item {
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+  padding: 0.6rem 1rem;
+}
+
+.navbar-nav .dropdown-item:hover,
+.navbar-nav .dropdown-item:focus {
+  background-color: #f8f9fa;
+}
+
+.navbar-nav .dropdown-item.active {
+  background-color: #004280;
+  color: #fff;
+}
+
+.navbar-nav .dropdown-divider {
+  margin: 0.5rem 0;
+  border-top-color: #e9ecef;
+}
+
+.navbar-nav .rounded-circle {
+  object-fit: cover;
+}
+
+.borderadius {
+  border-radius: 10px;
+}
+
+/* Responsive styles */
+@media (max-width: 991.98px) {
+  .navbar-nav .nav-link {
+    padding: 0.5rem 1rem;
+  }
+
+  .navbar-nav .dropdown-menu {
+    box-shadow: none;
+    border-radius: 0;
+  }
+}

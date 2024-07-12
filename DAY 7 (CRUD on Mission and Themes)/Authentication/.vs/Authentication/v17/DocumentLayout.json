@@ -54,8 +54,7 @@
               "RelativeToolTip": "Authentication\\Repository\\MissionSkillRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T09:01:50.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T09:01:50.397Z"
             },
             {
               "$type": "Document",
@@ -65,7 +64,7 @@
               "RelativeDocumentMoniker": "Authentication\\Repository\\IMissionSkillRepository.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 7 (CRUD on Mission and Themes)\\Authentication\\Authentication\\Repository\\IMissionSkillRepository.cs",
               "RelativeToolTip": "Authentication\\Repository\\IMissionSkillRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T07:47:42.519Z",
               "EditorCaption": ""
@@ -80,8 +79,7 @@
               "RelativeToolTip": "Authentication\\Controllers\\MissionSkillController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T07:50:08.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-10T07:50:08.674Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "Authentication\\Repository\\ThemeRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T07:27:40.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-09T07:27:40.184Z"
             },
             {
               "$type": "Document",

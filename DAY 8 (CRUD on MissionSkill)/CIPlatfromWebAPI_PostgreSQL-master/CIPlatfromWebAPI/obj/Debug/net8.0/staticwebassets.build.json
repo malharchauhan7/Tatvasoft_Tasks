@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "o1IZpjjGc4NqsPlL4bFYXZtZe8YJ6AI3YUE6gBs7VF0=",
+  "Hash": "lWtWvVBOLRR3lAeOpBOqXxCkdoTo2DWTxdio4uzLeYw=",
   "Source": "Web_API",
   "BasePath": "_content/Web_API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Web_API\\wwwroot",
       "Source": "Web_API",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\10_20240501105157.jpeg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\10_20240501105157.jpeg",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/10_20240501105157.jpeg",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\10_20240501105157.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\11_20240313164643.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\11_20240313164643.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/11_20240313164643.png",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\11_20240313164643.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\11_20240321142440.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\11_20240321142440.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/11_20240321142440.png",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\11_20240321142440.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\12_20240313164643.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\12_20240313164643.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/12_20240313164643.png",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\12_20240313164643.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240531072248.jpeg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240531072248.jpeg",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/2_20240531072248.jpeg",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\2_20240531072248.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240531072420.jpeg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\2_20240531072420.jpeg",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/2_20240531072420.jpeg",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\2_20240531072420.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\21_20240313164643.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\21_20240313164643.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/21_20240313164643.png",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\21_20240313164643.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\21_20240321142440.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\21_20240321142440.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/21_20240321142440.png",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\21_20240321142440.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\22_20240313164643.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\22_20240313164643.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/22_20240313164643.png",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\22_20240313164643.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\22_20240321142440.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\22_20240321142440.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/22_20240321142440.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\22_20240321142440.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\31_20240313164643.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\31_20240313164643.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/31_20240313164643.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\31_20240313164643.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\31_20240321142440.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\31_20240321142440.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/31_20240321142440.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\31_20240321142440.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\4_20240409101227.jpeg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\4_20240409101227.jpeg",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/4_20240409101227.jpeg",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\4_20240409101227.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\7_20240531073655.jpeg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\7_20240531073655.jpeg",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/7_20240531073655.jpeg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\7_20240531073655.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\7_20240531074038.jpeg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\7_20240531074038.jpeg",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/7_20240531074038.jpeg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\7_20240531074038.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\8_20240409102419.jpeg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\8_20240409102419.jpeg",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/8_20240409102419.jpeg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\8_20240409102419.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\8_20240409102501.jpeg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\8_20240409102501.jpeg",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/8_20240409102501.jpeg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\8_20240409102501.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\8_20240531075259.jpeg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\8_20240531075259.jpeg",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/8_20240531075259.jpeg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\8_20240531075259.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\8_20240531075328.jpeg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\8_20240531075328.jpeg",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/8_20240531075328.jpeg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\8_20240531075328.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6_20221223160110.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6_20221223160110.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6_20221223160110.png",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6_20221223160110.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6_20221223161040.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6_20221223161040.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6_20221223161040.png",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6_20221223161040.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6_20221223161205.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6_20221223161205.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6_20221223161205.png",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\CSR-initiative-stands-for-Coffee--and-Farmer-Equity-6_20221223161205.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-1_20221223160110.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-1_20221223160110.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/Education-Supplies-for-Every--Pair-of-Shoes-Sold-1_20221223160110.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-1_20221223160110.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-1_20221223160340.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-1_20221223160340.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/Education-Supplies-for-Every--Pair-of-Shoes-Sold-1_20221223160340.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-1_20221223160340.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-1_20221223160921.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-1_20221223160921.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/Education-Supplies-for-Every--Pair-of-Shoes-Sold-1_20221223160921.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-1_20221223160921.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability_20221223160921.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability_20221223160921.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/Grow-Trees-On-the-path-to-environment-sustainability_20221223160921.png",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability_20221223160921.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-1_20221223155829.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-1_20221223155829.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/Grow-Trees-On-the-path-to-environment-sustainability-1_20221223155829.png",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-1_20221223155829.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-1_20221223160110.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-1_20221223160110.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/Grow-Trees-On-the-path-to-environment-sustainability-1_20221223160110.png",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-1_20221223160110.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-1_20221223161312.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-1_20221223161312.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/Grow-Trees-On-the-path-to-environment-sustainability-1_20221223161312.png",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-1_20221223161312.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-2_20221223160234.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-2_20221223160234.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/Grow-Trees-On-the-path-to-environment-sustainability-2_20221223160234.png",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-2_20221223160234.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-3_20221223160527.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-3_20221223160527.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/Grow-Trees-On-the-path-to-environment-sustainability-3_20221223160527.png",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-3_20221223160527.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-5_20221223161205.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-5_20221223161205.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/Grow-Trees-On-the-path-to-environment-sustainability-5_20221223161205.png",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-5_20221223161205.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-login_20221223161040.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-login_20221223161040.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/Grow-Trees-On-the-path-to-environment-sustainability-login_20221223161040.png",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\Grow-Trees-On-the-path-to-environment-sustainability-login_20221223161040.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\image1_20221223160527.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\image1_20221223160527.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/image1_20221223160527.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\image1_20221223160527.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\image1_20221223160921.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\image1_20221223160921.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/image1_20221223160921.png",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\image1_20221223160921.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\image1_20221223161205.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\image1_20221223161205.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/image1_20221223161205.png",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\image1_20221223161205.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\image2_20221223155829.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\image2_20221223155829.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/image2_20221223155829.png",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\image2_20221223155829.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\image2_20221223161312.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\image2_20221223161312.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/image2_20221223161312.png",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\image2_20221223161312.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img_20221223155829.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img_20221223155829.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/img_20221223155829.png",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\img_20221223155829.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img1_20221223160921.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img1_20221223160921.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/img1_20221223160921.png",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\img1_20221223160921.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img2_20221223155829.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img2_20221223155829.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/img2_20221223155829.png",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\img2_20221223155829.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img2_20221223155952.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img2_20221223155952.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/img2_20221223155952.png",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\img2_20221223155952.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img2_20221223160527.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img2_20221223160527.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/img2_20221223160527.png",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\img2_20221223160527.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img22_20221223155952.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img22_20221223155952.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/img22_20221223155952.png",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\img22_20221223155952.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img22_20221223161205.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img22_20221223161205.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/img22_20221223161205.png",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\img22_20221223161205.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img33_20221223160527.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\img33_20221223160527.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/img33_20221223160527.png",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\img33_20221223160527.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Nourish-the-Children-in--African-country_20221223160527.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Nourish-the-Children-in--African-country_20221223160527.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/Nourish-the-Children-in--African-country_20221223160527.png",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\Nourish-the-Children-in--African-country_20221223160527.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Plantation_20221223155952.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Plantation_20221223155952.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/Plantation_20221223155952.png",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\Plantation_20221223155952.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Plantation_20221223160527.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Plantation_20221223160527.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/Plantation_20221223160527.png",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\Plantation_20221223160527.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Plantation_20221223161205.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Plantation_20221223161205.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/Plantation_20221223161205.png",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\Plantation_20221223161205.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131253.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131253.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/Screenshot 2024-05-08 123838_20240710131253.png",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131253.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131310.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131310.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/Screenshot 2024-05-08 123838_20240710131310.png",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131310.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131318.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131318.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/Screenshot 2024-05-08 123838_20240710131318.png",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131318.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131323.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131323.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/Screenshot 2024-05-08 123838_20240710131323.png",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131323.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131326.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131326.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/Screenshot 2024-05-08 123838_20240710131326.png",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131326.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131330.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131330.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/Screenshot 2024-05-08 123838_20240710131330.png",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131330.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131331.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131331.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/Screenshot 2024-05-08 123838_20240710131331.png",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710131331.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710132702.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710132702.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/Mission/Screenshot 2024-05-08 123838_20240710132702.png",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\Mission\\Screenshot 2024-05-08 123838_20240710132702.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\addtocart_20221223155952.txt",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\addtocart_20221223155952.txt",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/MissionDoc/addtocart_20221223155952.txt",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\MissionDoc\\addtocart_20221223155952.txt"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\addtocart_20221223161040.txt",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\addtocart_20221223161040.txt",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/MissionDoc/addtocart_20221223161040.txt",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\MissionDoc\\addtocart_20221223161040.txt"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\CI-SRS-Final-23_20221223160340.docx",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\CI-SRS-Final-23_20221223160340.docx",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/MissionDoc/CI-SRS-Final-23_20221223160340.docx",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\MissionDoc\\CI-SRS-Final-23_20221223160340.docx"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\CI-SRS-Final-23_20221223160921.docx",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\CI-SRS-Final-23_20221223160921.docx",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/MissionDoc/CI-SRS-Final-23_20221223160921.docx",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\MissionDoc\\CI-SRS-Final-23_20221223160921.docx"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\CI-SRS-Final-23_20221223161205.docx",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\CI-SRS-Final-23_20221223161205.docx",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/MissionDoc/CI-SRS-Final-23_20221223161205.docx",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\MissionDoc\\CI-SRS-Final-23_20221223161205.docx"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\CI-SRS-Final-23_20221223161312.docx",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\CI-SRS-Final-23_20221223161312.docx",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/MissionDoc/CI-SRS-Final-23_20221223161312.docx",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\MissionDoc\\CI-SRS-Final-23_20221223161312.docx"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\link_20221223155829.txt",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\link_20221223155829.txt",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/MissionDoc/link_20221223155829.txt",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\MissionDoc\\link_20221223155829.txt"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\TS_Resume_SE_Sankuj_20221221164013_20221223160527.docx",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\MissionDoc\\TS_Resume_SE_Sankuj_20221221164013_20221223160527.docx",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/MissionDoc/TS_Resume_SE_Sankuj_20221221164013_20221223160527.docx",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\MissionDoc\\TS_Resume_SE_Sankuj_20221221164013_20221223160527.docx"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\34_20240311113940.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\34_20240311113940.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/34_20240311113940.png",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\34_20240311113940.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\Animal-welfare-_-save-birds-campaign-1_20221206151140.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\Animal-welfare-_-save-birds-campaign-1_20221206151140.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/Animal-welfare-_-save-birds-campaign-1_20221206151140.png",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\Animal-welfare-_-save-birds-campaign-1_20221206151140.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-2_20221206150602.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-2_20221206150602.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/Education-Supplies-for-Every--Pair-of-Shoes-Sold-2_20221206150602.png",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-2_20221206150602.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-2_20221215100327.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-2_20221215100327.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/Education-Supplies-for-Every--Pair-of-Shoes-Sold-2_20221215100327.png",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\Education-Supplies-for-Every--Pair-of-Shoes-Sold-2_20221215100327.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\Grow-Trees-On-the-path-to-environment-sustainability_20221215100327.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\Grow-Trees-On-the-path-to-environment-sustainability_20221215100327.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/Grow-Trees-On-the-path-to-environment-sustainability_20221215100327.png",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\Grow-Trees-On-the-path-to-environment-sustainability_20221215100327.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\Grow-Trees-On-the-path-to-environment-sustainability-1_20221206151509.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\Grow-Trees-On-the-path-to-environment-sustainability-1_20221206151509.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/Grow-Trees-On-the-path-to-environment-sustainability-1_20221206151509.png",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\Grow-Trees-On-the-path-to-environment-sustainability-1_20221206151509.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\image_20221206143250.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\image_20221206143250.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/image_20221206143250.png",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\image_20221206143250.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\image_20221206144118.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\image_20221206144118.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/image_20221206144118.png",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\image_20221206144118.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\image_20221206144511.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\image_20221206144511.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/image_20221206144511.png",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\image_20221206144511.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\image_20221206145052.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\image_20221206145052.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/image_20221206145052.png",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\image_20221206145052.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\image_20221206145347.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\image_20221206145347.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/image_20221206145347.png",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\image_20221206145347.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img_20221206145610.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img_20221206145610.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/img_20221206145610.png",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\img_20221206145610.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img_20221215100327.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img_20221215100327.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/img_20221215100327.png",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\img_20221215100327.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img1_20221206145610.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img1_20221206145610.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/img1_20221206145610.png",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\img1_20221206145610.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img1_20221206151038.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img1_20221206151038.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/img1_20221206151038.png",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\img1_20221206151038.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img1_20221215100327.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img1_20221215100327.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/img1_20221215100327.png",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\img1_20221215100327.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img11_20221206143302.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img11_20221206143302.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/img11_20221206143302.png",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\img11_20221206143302.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img11_20221206144125.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img11_20221206144125.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/img11_20221206144125.png",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\img11_20221206144125.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img11_20221206144517.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img11_20221206144517.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/img11_20221206144517.png",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\img11_20221206144517.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img11_20221206145052.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img11_20221206145052.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/img11_20221206145052.png",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\img11_20221206145052.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img11_20221206145347.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img11_20221206145347.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/img11_20221206145347.png",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\img11_20221206145347.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img11_20221215100327.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img11_20221215100327.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/img11_20221215100327.png",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\img11_20221215100327.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img22_20221206150249.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img22_20221206150249.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/img22_20221206150249.png",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\img22_20221206150249.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img3_20221206150249.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img3_20221206150249.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/img3_20221206150249.png",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\img3_20221206150249.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img33_20221206150249.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\img33_20221206150249.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/img33_20221206150249.png",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\img33_20221206150249.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\Nourish-the-Children-in--African-country_20221206151038.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\Nourish-the-Children-in--African-country_20221206151038.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/Nourish-the-Children-in--African-country_20221206151038.png",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\Nourish-the-Children-in--African-country_20221206151038.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\Plantation-and-Afforestation-programme-1_20221209124034.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\ShareStory\\Plantation-and-Afforestation-programme-1_20221209124034.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/ShareStory/Plantation-and-Afforestation-programme-1_20221209124034.png",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\ShareStory\\Plantation-and-Afforestation-programme-1_20221209124034.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\10_20240425112609.jpeg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\10_20240425112609.jpeg",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/UserImage/10_20240425112609.jpeg",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\UserImage\\10_20240425112609.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\10_20240501105319.jpeg",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\10_20240501105319.jpeg",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/UserImage/10_20240501105319.jpeg",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\UserImage\\10_20240501105319.jpeg"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer1_20221212102620.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer1_20221212102620.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/UserImage/volunteer1_20221212102620.png",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\UserImage\\volunteer1_20221212102620.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer1_20221212102920.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer1_20221212102920.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/UserImage/volunteer1_20221212102920.png",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\UserImage\\volunteer1_20221212102920.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer1_20221212103211.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer1_20221212103211.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/UserImage/volunteer1_20221212103211.png",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\UserImage\\volunteer1_20221212103211.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer2_20221212130914.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer2_20221212130914.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/UserImage/volunteer2_20221212130914.png",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\UserImage\\volunteer2_20221212130914.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer3_20221212130311.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer3_20221212130311.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/UserImage/volunteer3_20221212130311.png",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\UserImage\\volunteer3_20221212130311.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer4_20221219102934.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer4_20221219102934.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/UserImage/volunteer4_20221219102934.png",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\UserImage\\volunteer4_20221219102934.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer4_20221219113054.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer4_20221219113054.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/UserImage/volunteer4_20221219113054.png",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\UserImage\\volunteer4_20221219113054.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer4_20221219113055.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer4_20221219113055.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/UserImage/volunteer4_20221219113055.png",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\UserImage\\volunteer4_20221219113055.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20221212123408.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20221212123408.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/UserImage/volunteer5_20221212123408.png",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20221212123408.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20221212123602.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20221212123602.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/UserImage/volunteer5_20221212123602.png",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20221212123602.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20221212124248.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20221212124248.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/UserImage/volunteer5_20221212124248.png",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20221212124248.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20221212130607.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20221212130607.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/UserImage/volunteer5_20221212130607.png",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20221212130607.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20221212130620.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20221212130620.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/UserImage/volunteer5_20221212130620.png",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20221212130620.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20240311120643.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20240311120643.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/UserImage/volunteer5_20240311120643.png",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\UserImage\\volunteer5_20240311120643.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer7_20221212122933.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer7_20221212122933.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/UserImage/volunteer7_20221212122933.png",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\UploadMissionImage\\UserImage\\volunteer7_20221212122933.png"
     },
     {
-      "Identity": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer9_20221212183430.png",
+      "Identity": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\UploadMissionImage\\UserImage\\volunteer9_20221212183430.png",
       "SourceId": "Web_API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI\\wwwroot\\",
       "BasePath": "_content/Web_API",
       "RelativePath": "UploadMissionImage/UserImage/volunteer9_20221212183430.png",
       "AssetKind": "All",

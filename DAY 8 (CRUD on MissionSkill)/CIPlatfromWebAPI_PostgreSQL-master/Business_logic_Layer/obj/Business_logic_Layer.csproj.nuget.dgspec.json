@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Business_logic_Layer\\Business_logic_Layer.csproj": {}
+    "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\Business_logic_Layer\\Business_logic_Layer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Business_logic_Layer\\Business_logic_Layer.csproj": {
+    "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\Business_logic_Layer\\Business_logic_Layer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Business_logic_Layer\\Business_logic_Layer.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\Business_logic_Layer\\Business_logic_Layer.csproj",
         "projectName": "Business_logic_Layer",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Business_logic_Layer\\Business_logic_Layer.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\Business_logic_Layer\\Business_logic_Layer.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Business_logic_Layer\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\Business_logic_Layer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Data_Access_Layer.csproj": {
-                "projectPath": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Data_Access_Layer.csproj"
+              "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Data_Access_Layer.csproj": {
+                "projectPath": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Data_Access_Layer.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Data_Access_Layer.csproj": {
+    "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Data_Access_Layer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Data_Access_Layer.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Data_Access_Layer.csproj",
         "projectName": "Data_Access_Layer",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Data_Access_Layer.csproj",
+        "projectPath": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\Data_Access_Layer.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\DOTNET\\NEW\\CIPlatfromWebAPI_PostgreSQL-master\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Desktop\\Tatvasoft\\DAY 8 (CRUD on MissionSkill)\\CIPlatfromWebAPI_PostgreSQL-master\\Data_Access_Layer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

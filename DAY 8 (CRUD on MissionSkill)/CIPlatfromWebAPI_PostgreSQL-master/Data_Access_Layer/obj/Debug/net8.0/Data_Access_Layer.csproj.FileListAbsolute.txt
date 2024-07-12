@@ -28,3 +28,19 @@ C:\Users\Asus\Desktop\DOTNET\NEW\CIPlatfromWebAPI_PostgreSQL-master\CIPlatfromWe
 C:\Users\Asus\Desktop\DOTNET\NEW\CIPlatfromWebAPI_PostgreSQL-master\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.pdb
 C:\Users\Asus\Desktop\DOTNET\NEW\CIPlatfromWebAPI_PostgreSQL-master\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.genruntimeconfig.cache
 C:\Users\Asus\Desktop\DOTNET\NEW\CIPlatfromWebAPI_PostgreSQL-master\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\ref\Data_Access_Layer.dll
+C:\Users\Asus\Desktop\Tatvasoft\DAY 8 (CRUD on MissionSkill)\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.deps.json
+C:\Users\Asus\Desktop\Tatvasoft\DAY 8 (CRUD on MissionSkill)\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.runtimeconfig.json
+C:\Users\Asus\Desktop\Tatvasoft\DAY 8 (CRUD on MissionSkill)\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.dll
+C:\Users\Asus\Desktop\Tatvasoft\DAY 8 (CRUD on MissionSkill)\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\bin\Debug\net8.0\Data_Access_Layer.pdb
+C:\Users\Asus\Desktop\Tatvasoft\DAY 8 (CRUD on MissionSkill)\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Tatvasoft\DAY 8 (CRUD on MissionSkill)\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Tatvasoft\DAY 8 (CRUD on MissionSkill)\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Tatvasoft\DAY 8 (CRUD on MissionSkill)\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Tatvasoft\DAY 8 (CRUD on MissionSkill)\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Tatvasoft\DAY 8 (CRUD on MissionSkill)\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\EFCoreNpgsqlNodaTime.cs
+C:\Users\Asus\Desktop\Tatvasoft\DAY 8 (CRUD on MissionSkill)\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.sourcelink.json
+C:\Users\Asus\Desktop\Tatvasoft\DAY 8 (CRUD on MissionSkill)\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.dll
+C:\Users\Asus\Desktop\Tatvasoft\DAY 8 (CRUD on MissionSkill)\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\refint\Data_Access_Layer.dll
+C:\Users\Asus\Desktop\Tatvasoft\DAY 8 (CRUD on MissionSkill)\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.pdb
+C:\Users\Asus\Desktop\Tatvasoft\DAY 8 (CRUD on MissionSkill)\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\Data_Access_Layer.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Tatvasoft\DAY 8 (CRUD on MissionSkill)\CIPlatfromWebAPI_PostgreSQL-master\Data_Access_Layer\obj\Debug\net8.0\ref\Data_Access_Layer.dll

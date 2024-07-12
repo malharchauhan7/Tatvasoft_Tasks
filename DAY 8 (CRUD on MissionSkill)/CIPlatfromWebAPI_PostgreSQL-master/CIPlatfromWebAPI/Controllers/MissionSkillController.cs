@@ -20,7 +20,7 @@ namespace Web_API.Controllers
 
         [HttpGet]
         [Route("GetMissionSkillList")]
-        //[Authorize]
+        
         public async Task<ActionResult<ResponseResult>> GetMissionSkillList()
         {
             try
@@ -36,7 +36,7 @@ namespace Web_API.Controllers
 
         [HttpGet]
         [Route("GetMissionSkillById/{id}")]
-        //[Authorize]
+     
         public async Task<ActionResult<ResponseResult>> GetMissionSkillById(int id)
         {
             try
@@ -52,7 +52,7 @@ namespace Web_API.Controllers
 
         [HttpPost]
         [Route("AddMissionSkill")]
-        //[Authorize]
+      
         public async Task<ActionResult<ResponseResult>> AddMissionSkill(MissionSkill missionSkill)
         {
             try
@@ -68,7 +68,7 @@ namespace Web_API.Controllers
 
         [HttpPost]
         [Route("UpdateMissionSkill")]
-        //[Authorize]
+       
         public async Task<ActionResult<ResponseResult>> UpdateMissionSkill(MissionSkill missionSkill)
         {
             try
@@ -84,7 +84,7 @@ namespace Web_API.Controllers
 
         [HttpDelete]
         [Route("DeleteMissionSkill/{id}")]
-        //[Authorize]
+      
         public async Task<ActionResult<ResponseResult>> DeleteMissionSkill(int id)
         {
             try

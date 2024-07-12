@@ -1,0 +1,39 @@
+.container{
+  margin-top:50px
+}
+
+.subtitle ul li {
+  list-style: none;
+  margin-bottom: 5px;
+  font-size: 14px;
+}
+
+.accordion-button:not(.collapsed) {
+  color: black !important;
+  background: white !important;
+}
+
+.accordion-button {
+  font-weight: bold;
+  color: #333;
+  transition: all 0.3s ease;
+}
+
+.accordion-button:hover {
+  background-color: #f5f5f5;
+}
+
+.accordion-body {
+  font-size: 16px;
+  line-height: 1.6;
+  color: #555;
+}
+
+.accordion-body p {
+  margin-bottom: 20px;
+}
+
+.accordion-body h2 {
+  color: #333;
+  margin-bottom: 15px;
+}

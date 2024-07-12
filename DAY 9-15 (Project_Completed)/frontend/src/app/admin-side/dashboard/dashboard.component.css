@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container-fluid {
+  display: flex;
+  height: 100vh;
+}
+
+.container-fluid .content {
+  width: 100%;
+  margin-left: 300px;
+  padding: 20px;
+}
+
+.container-fluid .content .info {
+  margin: 20px;
+  color: #333;
+  line-height: 25px;
+  text-align: justify;
+}
+
+.container-fluid .content .info h3 {
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.container-fluid .content .info .statistics-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+
+.container-fluid .content .info .statistic-card {
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  padding: 45px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.2em; /* Increase the size of the card */
+  transition: transform 0.3s, box-shadow 0.3s; /* Add transition for smooth effect */
+
+}
+
+.container-fluid .content .info .statistic-card:hover {
+  transform: scale(1.05) perspective(1000px) rotateY(3deg); /* Zoom and 3D effect */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Enhanced shadow for 3D effect */
+}
+
+.container-fluid .content .info .statistic-card .icon {
+  font-size: 50px;
+  color: #f88634;
+}
+
+.container-fluid .content .info .statistic-card .text-content {
+  text-align: left;
+}
+
+.container-fluid .content .info .statistic-card .value {
+  font-size: 30px;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.container-fluid .content .info .statistic-card .label {
+  font-size: 20px;
+  color: #666;
+  font-weight: 400;
+
+}
+
+.container-fluid .content .info .statistic-card.application-card {
+  grid-column: span 1.5;
+  font-size: 1.5em; /* Larger size for the application card */
+  text-align: center;
+}
